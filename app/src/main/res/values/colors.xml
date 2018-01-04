@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+  <color name="white">#ffffff</color>
+  <color name="black">#000000</color>
+  <color name="taupe_gray">#8c8c8c</color>
+  <color name="aquamarine">#7affc1</color>
+  <color name="medium_spring_green">#16e98f</color>
+  <color name="unnamed">#52ffff</color>
+  <color name="mountain_meadow">#33c69d</color>
+  <color name="wenge">#5f5d5d</color>
+  <color name="aquamarine1">#8effba</color>
+  <color name="cornflower_blue">#67a6f0</color>
+  <color name="heliotrope">#ba6cff</color>
+  <color name="lemon_yellow">#fff357</color>
+  <color name="topaz">#ffcc78</color>
+  <color name="wild_watermelon">#fa7081</color>
+  <color name="inchworm">#bdff75</color>
+  <color name="timberwolf">#d8d8d8</color>
+  <color name="manatee">#979797</color>
+  <color name="platinum">#e5e5e5</color>
+  <color name="dim_gray">#696969</color>
+  <color name="taupe_gray1">#948f8f</color>
+  <color name="pine_green">#1b846c</color>
+  <color name="aquamarine2">#6fe8cd</color>
+  <color name="shamrock">#34c79d</color>
+  <color name="shamrock_alpha25">#6434c79d</color>
+  <color name="timberwolf1">#d7d7d7</color>
+  <color name="medium_turquoise">#50e2c1</color>
+  <color name="aquamarine2_alpha25">#326fe8cd</color>
+  <color name="shamrock_alpha150">#c834c79d</color>
+  <color name="deep_sky_blue">#00b9e6</color>
+  <color name="deep_sky_blue_2">#1ad2ff</color>
+  <color name="cerulean">#0a89a7</color>
+</resources>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/aquamarine2</item>
+    <item name="colorPrimaryDark">@color/shamrock</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+  
+  <style name="AppTheme_Login" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimaryDark">@color/shamrock</item>
+    <item name="colorAccent">@color/aquamarine2</item>
+  </style>
+  
+  <style name="AppTheme_Detail" parent="Widget.AppCompat.Button.Colored">
+    <item name="colorButtonNormal">@color/unnamed</item>
+    <item name="android:textColor">@color/dim_gray</item>
+    <item name="android:textSize">30dp</item>
+  </style>
+  
+  <style name="AppTheme_SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimaryDark">@color/shamrock</item>
+    <item name="colorAccent">@color/aquamarine2</item>
+  </style>
+  
+  <style name="AppTheme_Dialog" parent="Theme.AppCompat.Light.Dialog">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimaryDark">@color/shamrock</item>
+    <item name="colorAccent">@color/aquamarine2</item>
+  </style>
+</resources>
+

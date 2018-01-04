@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo_pet24">logo_pet24</string>
+    <string name="login_username">login_username</string>
+    <string name="login_password_icon">login_password_icon</string>
+    <string name="login_logo">login_logo</string>
+</resources>

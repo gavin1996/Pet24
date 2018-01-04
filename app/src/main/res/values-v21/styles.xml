@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme_Detail" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:colorButtonNormal">@color/deep_sky_blue_2</item>
+        <item name="android:textColor">@color/dim_gray</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+</resources>

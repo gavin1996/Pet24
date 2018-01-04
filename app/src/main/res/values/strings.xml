@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pet24</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_signin">Sign In</string>
+    <string name="sign_out_menu_title">Sign Out</string>
+    <string name="logo_pet24">logo_pet24</string>
+    <string name="login_username">login_username</string>
+    <string name="login_password_icon">login_password_icon</string>
+    <string name="login_logo">login_logo</string>
+</resources>
